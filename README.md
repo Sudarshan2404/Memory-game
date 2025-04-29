@@ -29,7 +29,7 @@ A simple web-based version of the classic **Simon** game. Test your memory and r
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sudarshan2404/Memory-game.git
+   https://github.com/Sudarshan2404/Memory-game.git
    cd simon-game
    ```
-2. **run index.html file on your browser
+2. **run index.html file on your browser**
