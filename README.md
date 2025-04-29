@@ -10,7 +10,6 @@ A simple web-based version of the classic **Simon** game. Test your memory and r
 
 - 🎮 Interactive color pattern display
 - 🔊 Sound feedback on correct/incorrect actions
-- 🏆 Track your highest score
 - 🕹️ Easy-to-use interface with simple HTML, CSS, and JavaScript
 
 ---
