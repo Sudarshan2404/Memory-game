@@ -33,3 +33,8 @@ A simple web-based version of the classic **Simon** game. Test your memory and r
    cd simon-game
    ```
 2. **run index.html file on your browser**
+
+## 🧑‍💻 Author
+ - Sudarshan Kulkarni
+ - Connect with me on[Linkedin](https://www.linkedin.com/in/sudarshan-kulkarni-2a393824b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ or check out more of my projects on [Github](https://github.com/Sudarshan2404)
